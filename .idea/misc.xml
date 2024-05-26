@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/redis-pubsub-main/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/ecom-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/ecom-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecommerce-app-main/ecom-service-resgistry/pom.xml" />
+        <option value="$PROJECT_DIR$/first-project-main/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/course-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/payment-service-main/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-pubsub-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-main/pom.xml" />
+        <option value="$PROJECT_DIR$/service-registry-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jdbc-main/pom.xml" />
+        <option value="$PROJECT_DIR$/course-service-h2-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-example-main/pom.xml" />
+        <option value="$PROJECT_DIR$/dependency-injection-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-auditing-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-redis-db-main/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-example-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-scheduler-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-kafka-consumer-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-kafka-producer-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-scheduler-main 2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-transaction-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-auditing-main/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-example-main 2/pom.xml" />
+        <option value="$PROJECT_DIR$/validation-exception-handling-main/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Spring-boot-learning.iml" filepath="$PROJECT_DIR$/.idea/Java-Spring-boot-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-service-main/course-service.iml" filepath="$PROJECT_DIR$/course-service-main/course-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-service-h2-main/course-service (1).iml" filepath="$PROJECT_DIR$/course-service-h2-main/course-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation-exception-handling-main/course-service (2).iml" filepath="$PROJECT_DIR$/validation-exception-handling-main/course-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency-injection-main/dependency-injection.iml" filepath="$PROJECT_DIR$/dependency-injection-main/dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/ecom-config-server/ecom-config-server.iml" filepath="$PROJECT_DIR$/ecommerce-app-main/ecom-config-server/ecom-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-example-main/ecom-config-server (1).iml" filepath="$PROJECT_DIR$/config-server-example-main/ecom-config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/ecom-gateway-service/ecom-gateway-service.iml" filepath="$PROJECT_DIR$/ecommerce-app-main/ecom-gateway-service/ecom-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service-main/ecom-gateway-service (1).iml" filepath="$PROJECT_DIR$/gateway-service-main/ecom-gateway-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/ecom-service-resgistry/ecom-service-resgistry.iml" filepath="$PROJECT_DIR$/ecommerce-app-main/ecom-service-resgistry/ecom-service-resgistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry-main/ecom-service-resgistry (1).iml" filepath="$PROJECT_DIR$/service-registry-main/ecom-service-resgistry (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-example-main 2/employee-management-system.iml" filepath="$PROJECT_DIR$/spring-security-example-main 2/employee-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-project-main/first-project.iml" filepath="$PROJECT_DIR$/first-project-main/first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-auditing-main/javatechie-group-service.iml" filepath="$PROJECT_DIR$/spring-security-auditing-main/javatechie-group-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/order-service/order-service.iml" filepath="$PROJECT_DIR$/ecommerce-app-main/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service-main/order-service (1).iml" filepath="$PROJECT_DIR$/order-service-main/order-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/ecommerce-app-main/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service-main/payment-service (1).iml" filepath="$PROJECT_DIR$/payment-service-main/payment-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka-consumer-main/paytm-consumer.iml" filepath="$PROJECT_DIR$/spring-kafka-consumer-main/paytm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka-producer-main/paytm-producer.iml" filepath="$PROJECT_DIR$/spring-kafka-producer-main/paytm-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-transaction-main/practo-app.iml" filepath="$PROJECT_DIR$/spring-boot-transaction-main/practo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-pubsub-main/rabbitmq-example.iml" filepath="$PROJECT_DIR$/rabbitmq-pubsub-main/rabbitmq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-pubsub-main/redis-pubsub-example.iml" filepath="$PROJECT_DIR$/redis-pubsub-main/redis-pubsub-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduler-main/spring-boot-scheduler.iml" filepath="$PROJECT_DIR$/spring-boot-scheduler-main/spring-boot-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduler-main 2/spring-boot-scheduler (1).iml" filepath="$PROJECT_DIR$/spring-boot-scheduler-main 2/spring-boot-scheduler (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jdbc-main/spring-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-data-jdbc-main/spring-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jpa-main/spring-data-jpa.iml" filepath="$PROJECT_DIR$/spring-data-jpa-main/spring-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop-example-main/spring-data-jpa (1).iml" filepath="$PROJECT_DIR$/spring-aop-example-main/spring-data-jpa (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-auditing-main/spring-data-jpa (2).iml" filepath="$PROJECT_DIR$/spring-data-auditing-main/spring-data-jpa (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-redis-db-main/spring-data-redis.iml" filepath="$PROJECT_DIR$/spring-data-redis-db-main/spring-data-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-main/user-service.iml" filepath="$PROJECT_DIR$/user-service-main/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-app-main/user-service/user-service (1).iml" filepath="$PROJECT_DIR$/ecommerce-app-main/user-service/user-service (1).iml" />
+    </modules>
+  </component>
+</project>
